@@ -1,6 +1,8 @@
-an app that oraganizes our daily programm
+An app that oraganizes our daily programm
 
-1 Otam anoigei h efarmogh tha zhtaei apo ton xrhsth na prosthetei diafora kathikonta pou tha prepei na ta pragmatopoieish mesa sthn hmera tou, ystera o xrhsths tha prosthetei thn wra pou tha tou erthei eidopoihsei gia auto to kathikon.
-2 Epishs tha zhtaei apo ton xrhsth na balei enan titlo ston kathikon tou 
-3 Telos o xrhsths tha dialegei enan hxo/mousikh pou tha energopoithei otan h wra ftasei sthn programmatismenh
+1) Otam anoigei h efarmogh tha zhtaei apo ton xrhsth na prosthetei diafora kathikonta pou tha prepei na ta pragmatopoieish mesa sthn hmera tou, ystera o xrhsths tha prosthetei thn wra pou tha tou erthei eidopoihsei gia auto to kathikon.
+2) Epishs tha zhtaei apo ton xrhsth na balei enan titlo ston kathikon tou 
+3) Telos o xrhsths tha dialegei enan hxo/mousikh pou tha energopoithei otan h wra ftasei sthn programmatismenh
 
+DYNATOTHTES EFAMOGHS
+1) o xrhsths tha orei na de
